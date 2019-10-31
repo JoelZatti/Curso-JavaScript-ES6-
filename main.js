@@ -1,5 +1,5 @@
-class Matematica{
-    static soma(a, b){
+class Matematica {
+    static soma(a, b) {
         return a + b;
     }
 }
